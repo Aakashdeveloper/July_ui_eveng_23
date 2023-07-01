@@ -79,3 +79,19 @@ stylesheet
     background:green;
     font-size:20px;
 }
+
+
+TagName
+
+Class
+> .
+> When we want to target multiple elements with same property
+
+Id
+> #
+> When we want to target unique element 
+
+position:absolute
+position:relative
+
+https://app.netlify.com/
