@@ -1,3 +1,48 @@
 .btn-purple{
     background-color: purple;
 }
+
+.sliderImage{
+    height:300px !important;
+    width:100%
+}
+
+.delete{
+    font-size: 30px;
+    color:red
+}
+
+.edit{
+    font-size: 30px;
+    color:green
+}
+
+#first{
+    height:200px;
+    background-color:rgb(243, 125, 125)
+}
+
+#second{
+    height:200px;
+    background-color:rgb(243, 225, 125)
+}
+#third{
+    height:200px;
+    background-color:rgb(149, 243, 125)
+}
+#fourth{
+    height:200px;
+    background-color:rgb(125, 243, 239)
+}
+#fifth{
+    height:200px;
+    background-color:rgb(125, 133, 243)
+}
+#sixth{
+    height:200px;
+    background-color:rgb(243, 125, 241)
+}
+#seventh{
+    height:200px;
+    background-color:rgb(243, 125, 190)
+}
