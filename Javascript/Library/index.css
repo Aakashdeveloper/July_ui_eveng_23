@@ -1,0 +1,40 @@
+body{
+    margin:auto
+}
+
+header{
+    background-color: rgb(245,205,230);
+    text-align: center;
+}
+
+#error{
+    color:red
+}
+
+#content{
+    width:80%;
+    margin-left:10%
+}
+
+.card{
+    height:300px;
+    width:100%;
+    border:1px solif black;
+    box-shadow: 10px 20px 10px gray;
+    border-radius: 1%;
+    margin:4%;
+    overflow: scroll;
+    display: flex;
+}
+
+.imgdiv{
+    height:100%;
+    width:40%;
+}
+
+.imgdiv img{
+    padding:10%;
+    height:80%;
+    width:80%;
+
+}
